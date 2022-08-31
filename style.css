@@ -1,0 +1,164 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.all {
+  width: 360px;
+  height: 1959px;
+  margin-left: 800px;
+  background-color: whitesmoke;
+}
+.nav1 {
+  display: flex;
+  background-color: white;
+  font-family: "Roboto", sans-serif;
+}
+.number {
+  margin-left: 28px;
+  font-weight: 500;
+  font-size: 12px;
+  margin-top: 5px;
+}
+.text2 {
+  font-weight: 500;
+  font-size: 12px;
+  margin-left: 28px;
+}
+.chas {
+  margin-left: 48px;
+  margin-top: 5px;
+}
+.istash {
+  margin-left: 30px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+.cart1 {
+  margin-left: 10px;
+  margin-top: 15px;
+}
+.text3 {
+  margin-top: -145px;
+  margin-left: 10px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 600;
+  font-size: 18px;
+  color: white;
+}
+.carts {
+  display: flex;
+}
+.cart2 {
+  margin-top: 130px;
+  margin-left: 10px;
+}
+.cert {
+  margin-top: 20px;
+  margin-left: 10px;
+}
+.more {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 33px;
+  margin-bottom: 20px;
+}
+.more-text {
+  margin-right: 10px;
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #f46d40;
+  display: flex;
+  align-items: center;
+}
+
+.more img {
+  height: 6px;
+  width: 15px;
+}
+
+.telegram {
+  text-align: center;
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #a4acad;
+  line-height: 22px;
+  margin-bottom: 10px;
+  letter-spacing: 0em;
+}
+
+.icon-div {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  margin-bottom: 31px;
+}
+
+.phone {
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: 0em;
+  color: #a4acad;
+  margin-bottom: 5px;
+  text-align: center;
+}
+.address {
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #a4acad;
+  line-height: 22px;
+  margin-bottom: 31px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+.textb {
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 17px;
+  letter-spacing: 0em;
+  text-align: center;
+  cursor: default;
+  color: #000000;
+}
+
+.menu-text {
+  margin-top: 2.72px;
+}
+.cart-text {
+  margin-top: 2.06px;
+}
+.like-text {
+  margin-top: 1.25px;
+}
+.lo {
+  display: flex;
+  margin-top: 50px;
+  margin-left: 20px;
+}
+.text8 {
+  margin: 15px;
+  text-align: justify;
+  color:linear-gradient(185deg, rgba(255,255,255,1) 0%, rgba(204,196,203,1) 100%) ;
+  position: relative;
+  
+}
+.gradient{
+  background: rgb(255,255,255);
+  background: linear-gradient(185deg, rgba(255,255,255,0) 0%, rgba(204,196,203,1.5) 100%);
+  width: 340px;
+  height: 150px;
+  position: absolute;
+
+}
